@@ -7,5 +7,6 @@
         <?php include "header.php"; ?>
     </head>
     <body>
+        <h1>Contact Us</h1>
     </body>
 </html>

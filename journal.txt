@@ -3,3 +3,6 @@ I started the website, I first created a index.html page, making a nav component
 I wanted to have something a bit more pleasant to look at so I created the css page and used this page :
 https://www.raphaelbeaudet.com/creer-un-menu-responsive-uniquement-en-html-css
 in order to create a basic navigation bar that I will customise later.
+
+8/03
+Added titles to every main pages and a little text to describe the Comittee.
